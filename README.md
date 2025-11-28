@@ -1,2 +1,2 @@
 # Machine_Learning
-machine learning class repository
+Machine Learning class repository
