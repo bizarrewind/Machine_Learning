@@ -1,0 +1,15 @@
+# collect csv or excel
+collect from sql
+# collect data using rest api
+# Web scraping from a website
+Scraping from dynamic website using selenium
+collecting streaming data using kafka
+iot / sensor data
+collect images from local folder -> open cv /oepncmv or local cv
+text file
+audio data wav is generic format use it
+cloud storage
+collect log files
+collect json data 
+video through folder or download
+apart from these add anything 
