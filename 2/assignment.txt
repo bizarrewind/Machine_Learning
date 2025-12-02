@@ -2,7 +2,7 @@
 collect from sql
 # collect data using rest api
 # Web scraping from a website
-Scraping from dynamic website using selenium
+# Scraping from dynamic website using selenium
 collecting streaming data using kafka
 iot / sensor data
 collect images from local folder -> open cv /oepncmv or local cv

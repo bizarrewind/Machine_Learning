@@ -18,3 +18,8 @@ except FileNotFoundError:
     print(f"Error: The file '{file_path}' was not found.")
 except Exception as e:
     print(f"An error occurred: {e}")
+
+# Importing csv from Url
+url = "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv"
+data = pd.read_csv(url)
+print(data)
